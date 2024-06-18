@@ -11,10 +11,5 @@
 - Created functions to apply clustering models (K-Means, MeanShift, HClust) with varying cluster numbers.
 - Plotted evaluation metrics such as the elbow graph and silhouette plot for each model.
 
-## Usage
-
-To replicate the experiments with different clustering algorithms, use:
-```python
-apply_model('kmeans')  # or 'meanshift', 'hclust', etc.
 
 ![image](https://github.com/YogeshRathee512/Comparitive-performance-of-Clustring-algorithm./assets/124448614/28725afe-0ae1-4a6c-b964-e6d757778c0d)
